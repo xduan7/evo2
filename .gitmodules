@@ -1,3 +1,4 @@
 [submodule "vortex"]
 	path = vortex
 	url = https://github.com/xduan7/vortex.git
+    branch = xduan7-evo2
